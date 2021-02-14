@@ -24,6 +24,9 @@
 ## 💻 Sobre o projeto
 
 Google Homepage Clone foi desenvolvido seguindo o desafio do [The Origin Project](https://www.theodinproject.com/courses/foundations/lessons/html-css). A finalidade do desenvolvimento deste projeto, foi aprimorar e praticar os conceitos de HTML e CSS.  
+
+
+Link do Site: https://vanessaswerts.github.io/google-homepage/
   
 ---
 
